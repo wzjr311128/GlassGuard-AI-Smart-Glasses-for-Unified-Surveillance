@@ -1,0 +1,35 @@
+.DS_Store
+
+# IDE and editor state
+.idea/
+**/.idea/
+.vscode/*
+!.vscode/settings.json
+*.iml
+
+# Android / Gradle
+**/.gradle/
+**/.kotlin/
+**/build/
+**/captures/
+**/.externalNativeBuild/
+**/.cxx/
+**/local.properties
+
+# Python
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Runtime data
+Server/uploads/
+Server/videos/
+VideoStreamToVideo/20*/
+
+# Generated research and presentation outputs
+outputs/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/

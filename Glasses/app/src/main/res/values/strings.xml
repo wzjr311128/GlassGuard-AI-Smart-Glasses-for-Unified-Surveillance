@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="start_scan">开始扫描</string>
+    <string name="stop_scan">停止扫描</string>
+    <string name="camera_status_idle">摄像头未开启</string>
+    <string name="camera_status_opening">正在开启摄像头…</string>
+    <string name="camera_status_active">摄像头已开启</string>
+    <string name="camera_status_streaming">正在推流扫描 (480p @ 15fps)…</string>
+    <string name="camera_status_permission_denied">摄像头权限被拒绝，无法开启</string>
+    <string name="camera_status_error">摄像头开启失败：%1$s</string>
+    <string name="server_status_disconnected">服务器未连接</string>
+    <string name="server_status_connecting">正在连接服务器…</string>
+    <string name="server_status_connected">服务器已连接</string>
+    <string name="server_status_error">服务器连接失败：%1$s</string>
+</resources>
