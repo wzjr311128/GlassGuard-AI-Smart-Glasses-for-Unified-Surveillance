@@ -8,6 +8,10 @@ This repository contains the prototype code for a smart-glasses parking surveill
 - `Server/`: FastAPI WebSocket backend for receiving JPEG video frames.
 - `VideoStreamToVideo/`: Utility for converting saved frame images into MP4 video.
 
+## Demo
+
+- [GlassGuard demo video](demos/glassguard-demo.mp4)
+
 ## Backend Quick Start
 
 ```bash
